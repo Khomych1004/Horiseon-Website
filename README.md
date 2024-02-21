@@ -11,11 +11,6 @@ site is optimized for search engines
 
 the site can be opened via the link -> [here](https://khomych1004.github.io/Horiseon-Website/)
 
-
-## Installation
-
-N/A
-
 ## Usage
 ```
 run index file
