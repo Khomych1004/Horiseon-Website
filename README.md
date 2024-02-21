@@ -2,25 +2,31 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![application screenshot](created_readme/img.jpg)
+![application screenshot](assets/documentation/screenshot.png)
 
 ## Description
 
 codebase that follows accessibility standards
 site is optimized for search engines
 
+the site can be opened via the link -> [here](https://khomych1004.github.io/Horiseon-Website/)
+
+
 ## Installation
 
 N/A
 
-## Application
+## Usage
+```
+run index file
 
-N/A
+```
 
-## Loans
+## Credits
 
-N/A
-
-## License
-
-Please refer to the LICENSE in the repository.
+To create the application, I used resources on:
+[MDN Web Docs](https://developer.mozilla.org)
+||
+[GitHub Docs](https://docs.github.com)
+||
+[W3Schools](https://www.w3schools.com/)
