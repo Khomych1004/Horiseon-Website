@@ -1,6 +1,6 @@
 # Horiseon-Website
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![](https://komarev.com/ghpvc/?username=Khomych1004)
 
 ![application screenshot](assets/documentation/screenshot.png)
 
@@ -25,3 +25,7 @@ To create the application, I used resources on:
 [GitHub Docs](https://docs.github.com)
 ||
 [W3Schools](https://www.w3schools.com/)
+
+##
+
+![Khomych1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khomych1004&show_icons=true&theme=transparent)
